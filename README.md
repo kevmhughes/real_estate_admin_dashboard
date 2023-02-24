@@ -4,12 +4,12 @@ Take a look at the app [here](https://real-estate-admin-dashboard.netlify.app/)
 
 ### This application is a full stack project built using the **MERN** stack.
 
-#### Client Side:
+### Client Side:
 The UI was built using **React**, **Refine**, **TypeScript**, **MUI**, and **ApexCharts**
 
 see the Figma file used for the UI design [here](https://www.figma.com/file/QLU3mZJOsmnAN4SEQ8YSTA/Real-Estate-Admin-Dashboard?node-id=0%3A1&t=MJG00Z0wUQi4P4wv-0)
 
-#### Server Side:
+### Server Side:
 The **REST API** and database, were built using **JavaScript**, **Node.js**, **Express**, and **MongoDB**. Image hosting is provided by Cloudinary.
 
 # Description
