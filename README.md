@@ -5,7 +5,7 @@ Take a look at the app [here](https://real-estate-admin-dashboard.netlify.app/)
 #### This application is a full stack project built using the **MERN** stack.
 
 <kbd>
-<img src="imgs_readme/mern_logo.png" width="200" height="200"/>
+<img src="imgs_readme/mern.png" width="100"/>
 </kbd>
 
 
@@ -15,7 +15,7 @@ The UI was built using **React**, **Refine**, **TypeScript**, **MUI**, and **Ape
 see the Figma file used for the UI design [here](https://www.figma.com/file/QLU3mZJOsmnAN4SEQ8YSTA/Real-Estate-Admin-Dashboard?node-id=0%3A1&t=MJG00Z0wUQi4P4wv-0)
 
 ## Server Side:
-The **REST API** and database, were built using **JavaScript**, **Node.js**, **Express**, and **MongoDB**. Image hosting is provided by Cloudinary.
+The **REST API** and database were built using **JavaScript**, **Node.js**, **Express**, and **MongoDB**. Image hosting is provided by Cloudinary.
 
 # Description
 **Yariga** is a dashboard used by real estate companies to manage their properties, agents, reviews and messages.
