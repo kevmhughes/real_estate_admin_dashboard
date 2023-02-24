@@ -5,7 +5,7 @@ Take a look at the app [here](https://real-estate-admin-dashboard.netlify.app/)
 #### This application is a full stack project built using the **MERN** stack.
 
 <kbd>
-<img src="imgs_readme/mern.png"/>
+<img src="imgs_readme/mrn.png"/>
 </kbd>
 
 
