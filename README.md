@@ -1,6 +1,6 @@
 # Yariga 
 
-Take a look at the app [here](https://myflickz.herokuapp.com/client/)
+Take a look at the app [here](https://real-estate-admin-dashboard.netlify.app/)
 
 ### This application is a full stack project built using the **MERN** stack.
 
