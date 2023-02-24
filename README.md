@@ -4,6 +4,11 @@ Take a look at the app [here](https://real-estate-admin-dashboard.netlify.app/)
 
 #### This application is a full stack project built using the **MERN** stack.
 
+<kbd>
+<img src="imgs_readme/mern.png"/>
+</kbd>
+
+
 ## Client Side:
 The UI was built using **React**, **Refine**, **TypeScript**, **MUI**, and **ApexCharts**
 
