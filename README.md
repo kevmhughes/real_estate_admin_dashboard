@@ -18,7 +18,9 @@ see the Figma file used for the UI design [here](https://www.figma.com/file/QLU3
 The **REST API** and database were built using **JavaScript**, **Node.js**, **Express**, and **MongoDB**. Image hosting is provided by Cloudinary.
 
 # Description
-**Yariga** is a dashboard used by real estate companies to manage their properties, agents, reviews and messages.
+**Yariga** is a dashboard used by real estate companies to manage their properties, agents, reviews, messages and key figures which are reresented through charts and graphs provided by ApexCharts.
+
+Take a look at a screenshot of the dashboard here:
 
 <kbd>
 <img src="imgs_readme/yariga.png"/>
