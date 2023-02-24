@@ -11,7 +11,7 @@ const Agents = () => {
   const allAgents = data?.data;
   console.log(allAgents)
 
-  if(isLoading) return <div style={{color: "#11142d"}}>loading...</div>
+  if(isLoading) return <div style={{color: "#11142d"}}>loading may take a short time due to free hosting...</div>
   if(isError) return <div style={{color: "#11142d"}}>error</div>
 
   return (

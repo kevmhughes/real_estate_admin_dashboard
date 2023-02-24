@@ -41,7 +41,7 @@ const AllProperties = () => {
 
   }, [filters])
 
-  if(isLoading) return <Typography color="#11142d">loading...</Typography>
+  if(isLoading) return <Typography color="#11142d">loading may take a short time due to free hosting...</Typography>
   if(isError) return <Typography color="#11142d">error</Typography>
 
   // override blank outlined border color and text color

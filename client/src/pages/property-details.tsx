@@ -23,7 +23,7 @@ function checkImage(url: any) {
   const propertyDetails = data?.data ?? {};
   console.log(propertyDetails)
 
-  if(isLoading) return <div style={{color: "#11142d"}}>loading...</div>
+  if(isLoading) return <div style={{color: "#11142d"}}>loading may take a short time due to free hosting...</div>
   if(isError) return <div style={{color: "#11142d"}}>error</div>
 
   const isCurrentUser = user.email === propertyDetails.creator.email;
