@@ -8,6 +8,10 @@ Take a look at the app [here](https://real-estate-admin-dashboard.netlify.app/)
 <img src="imgs_readme/mern_logo.png" width="200" height="200"/>
 </kbd>
 
+<kbd>
+<img src="imgs_readme/mern_logo.png" width="200"/>
+</kbd>
+
 
 ## Client Side:
 The UI was built using **React**, **Refine**, **TypeScript**, **MUI**, and **ApexCharts**
