@@ -1,0 +1,8 @@
+{
+  "debug.javascript.codelens.npmScripts": "never",
+
+  // Show Git Folder
+  "files.exclude": {
+    "**/.git": false
+  }
+}
