@@ -11,7 +11,7 @@ The UI was built using **React**, **Refine**, **TypeScript**, and **MUI**
 The **REST API** and database, were built using **JavaScript**, **Node.js**, **Express**, and **MongoDB**.
 
 # Description
-**Yariga** is a dashboard used by a real estate company to manage their properties, agents, reviews and messages.
+**Yariga** is a dashboard used by real estate companies to manage their properties, agents, reviews and messages.
 
 <kbd>
 <img src="images-readme/img1.png"/>
