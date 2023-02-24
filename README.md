@@ -1,8 +1,8 @@
 # Yariga 
 
-### This application is a full stack project built using the **MERN** stack.
-
 Take a look at the app [here](https://real-estate-admin-dashboard.netlify.app/)
+
+### This application is a full stack project built using the **MERN** stack.
 
 #### Client Side:
 The UI was built using **React**, **Refine**, **TypeScript**, **MUI**, and **ApexCharts**
