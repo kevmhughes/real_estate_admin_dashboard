@@ -14,7 +14,7 @@ The **REST API** and database, were built using **JavaScript**, **Node.js**, **E
 **Yariga** is a dashboard used by real estate companies to manage their properties, agents, reviews and messages.
 
 <kbd>
-<img src="images-readme/img1.png"/>
+<img src="imgs_readme/yariga.png"/>
 </kbd>
 
 
