@@ -1,6 +1,6 @@
 # Yariga 
 
-Take a look at the app [here](https://real-estate-admin-dashboard.netlify.app/) (it might be a little slow to load the app initially due to free hosting, please be patient!).
+Take a look at the app [here](https://real-estate-admin-dashboard.netlify.app/) (initial loading of the app can be a little slow due to free hosting, please be patient!).
 
 #### This application is a full stack project built using the **MERN** stack.
 
